@@ -91,3 +91,8 @@ hs_err_pid*
 /.idea/modules.xml
 /.idea/vcs.xml
 /.idea/workspace.xml
+/angular-app-two/.mvn/wrapper/maven-wrapper.jar
+/angular-app-two/.mvn/wrapper/maven-wrapper.properties
+/angular-app-two/.mvn/wrapper/MavenWrapperDownloader.java
+/angular-app-two/mvnw
+/angular-app-two/mvnw.cmd
